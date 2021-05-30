@@ -2,7 +2,7 @@
 //Dateiname	    : Auf_Kontrollstrukturen
 //Projekt	    : Auf_Kontrollstrukturen
 //Beschreibung  :
-//Autoren	    : Paul Atuahene
+//Autoren	    : Paul A.
 //Erstellung	: 13.01.2021
 //letzte Änd.	: 18.01.2021
 //Fehler	    : 
